@@ -1,2 +1,7 @@
 # Monkey_Challenge
 The challenge will have two different leaderboards:  Leaderboard 1: Detection of mononuclear, inflammatory cells (mononuclear leukocytes (MNLs)) Leaderboard 2: Detect and distinguish inflammatory cells: monocytes and lymphocyte
+The "Machine-Learning for Optimal Detection of Inflammatory Cells in the Kidney" challenge focuses on enhancing the Banff Lesion Scores (BLS), the gold standard for histopathologic assessment of transplant kidney biopsies. BLS evaluates inflammatory cell infiltration in kidney compartments, but current methods are subjective, time-consuming, and prone to inconsistency. This challenge aims to develop automated tools to objectively and consistently identify inflammatory cells, reducing pathologists' workload and improving diagnostic accuracy.
+
+Participants will compete on two leaderboards: (1) detecting mononuclear inflammatory cells (MNLs) and (2) distinguishing between monocytes and lymphocytes. Submissions must include coordinate text files specifying detected cell locations. A baseline model and tutorial are provided to guide model development. The challenge's concurrent development and validation phases will culminate in evaluating submissions on a final test set.
+
+Top performers will receive monetary prizes, and leading teams will be invited to co-author a resulting publication. This initiative aims to revolutionize kidney biopsy assessments, advancing precision medicine by integrating machine learning into histopathological workflows.
